@@ -1,0 +1,4 @@
+# Impact-Prediction-Analysis
+Analyse the incidents raised by customers and build predictive model that can predict the impact of the incident through different classification techniques with high accuracy
+We were  in the team and worked efficiently for a month to complete this project 
+We have developed a FLASK APP of the same as a part of Deployment 
